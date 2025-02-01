@@ -11,7 +11,7 @@ Links to live demos and source code
 Details about my skills and technologies I work with
 
 🛠 Technologies & Skills
-Frontend: React, HTML, CSS, JavaScript
+Frontend: React, HTML, CSS, JavaScript.
 
 🚀 Getting Started
 To explore the projects locally, follow these steps:
