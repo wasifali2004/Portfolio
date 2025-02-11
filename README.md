@@ -5,15 +5,15 @@ Welcome to my Portfolio Repository! 🚀 This repository showcases my projects, 
 📌 About
 This repository serves as a collection of my personal and professional projects. It highlights my expertise in various technologies and demonstrates my problem-solving abilities.
 
-🎯 Features
+🎯 Features:
 A collection of my best projects.
 Links to live demos and source code.
 Details about my skills and technologies I work with.
 
-🛠 Technologies & Skills
+🛠 Technologies & Skills:
 Frontend: React, HTML, CSS, JavaScript.
 
-🚀 Getting Started
+🚀 Getting Started:
 To explore the projects locally, follow these steps:
 Clone the repository:
 git clone https://github.com/your-username/portfolio.git
@@ -24,7 +24,7 @@ npm install
 Start the development server:
 npm start
 
-📜 License
+📜 License:
 This repository is licensed under the MIT License.
 
 🤝 Connect With Me
