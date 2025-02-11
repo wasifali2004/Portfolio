@@ -6,9 +6,9 @@ Welcome to my Portfolio Repository! 🚀 This repository showcases my projects, 
 This repository serves as a collection of my personal and professional projects. It highlights my expertise in various technologies and demonstrates my problem-solving abilities.
 
 🎯 Features
-A collection of my best projects
-Links to live demos and source code
-Details about my skills and technologies I work with
+A collection of my best projects.
+Links to live demos and source code.
+Details about my skills and technologies I work with.
 
 🛠 Technologies & Skills
 Frontend: React, HTML, CSS, JavaScript.
